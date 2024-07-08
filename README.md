@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm Franco Ceballos, a passionate full-stack developer based in Arengentina.
+👋 Hi, I'm Franco Ceballos, a passionate full-stack developer based in Argentina.
 
 ### 🚀 About Me
 
