@@ -43,4 +43,4 @@
 **Connect with me:**
 
 [LinkedIn](https://www.linkedin.com/in/francomanuelceballos/) 
-[Personal Website](https://www.francomceballos.github.io/)
+[Personal Website](francomceballos.github.io/)
